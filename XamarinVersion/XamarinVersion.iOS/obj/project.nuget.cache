@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8icZ/qC/pq0ew7I/g/RxA/AzKhcCr9ThnU/yqqN8vnPS7zhSpyiAKgHWgQHuxgBtSNTbRq62R+rACFqGU+0Ruw==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\QRCode Generator\\XamarinVersion\\XamarinVersion.iOS\\XamarinVersion.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JonasVanMullem\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
