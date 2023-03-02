@@ -1,5 +1,6 @@
 ﻿using System.Windows;
 using System.Windows.Data;
+using WPFVersion.ViewModels;
 
 namespace WPFVersion
 {
